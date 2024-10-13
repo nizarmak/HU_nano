@@ -2,7 +2,7 @@ import nummer_raadspel
 import galgje
 
 def toon_menu():
-    print("\nWelkom bij de Nano App Store!")
+    print("\nWelkom bij de Bizar App Store!")
     print("1. Speel Nummer Raadspel")
     print("2. Speel Galgje")
     print("3. Afsluiten")
